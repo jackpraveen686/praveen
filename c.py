@@ -1,0 +1,1 @@
+print("my name is shehzaadi and i am the good girl and everyones's favourite")
